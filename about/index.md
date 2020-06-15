@@ -5,7 +5,7 @@ tags: [about, Jekyll, theme, JBlog]
 date: 2016-03-21
 ---
 
-![jekyll Image](http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/02/1424055625jekyll.png)
+![jekyll Image](https://github.com/mz-17/mz/blob/master/qf.png)
 {: .image-pull-right}
 
 <center><b>JBlog</b> is a simple jekyll theme.</center>
