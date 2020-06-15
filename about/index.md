@@ -2,7 +2,7 @@
 layout: page
 title: About the Theme
 tags: [about, Jekyll, theme, JBlog]
-date: 2016-03-21
+date: 2020-06-15
 ---
 
 ![jekyll Image](https://github.com/mz-17/mz/blob/master/qf.png)
@@ -12,11 +12,7 @@ date: 2016-03-21
 
 ## About
 
-I have used this theme in my own php and ruby blogs. And there are some shortcomings. If something looks extremely ugly and you can't resist to fix it, just send me a PR. I will be grateful.
+I'm in **practice**. I don't know if I'm doing it right.
 
 
-If you like this theme or using it, please give a **star** for motivation.
 
-You want to **use it?**      
-
-[Install JBlog](https://github.com/alperenbozkurt/JBlog){: .btn .btn-info}
