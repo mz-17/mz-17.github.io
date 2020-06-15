@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About the Theme
-tags: [about, Jekyll, theme, JBlog]
+tags: [about, Jekyll, theme, MZBlog]
 date: 2020-06-15
 ---
 
