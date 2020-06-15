@@ -14,9 +14,14 @@ date: 2020-06-15
 ## About
 
 경일대학교 사이버보안과 20학번입니다
-+**오픈소프트웨어** 실습중입니다
-+자랑할 수 있는 **고양이**가 없습니다.. 
-+I'm in **practice**. I don't know if I'm doing it right.
+
+<http://security.kiu.ac.kr/>
+
+**오픈소프트웨어** 실습중입니다
+
+자랑할 수 있는 **고양이**가 없습니다.. 
+
+I'm in **practice**. I don't know if I'm doing it right.
 
 
 
