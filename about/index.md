@@ -9,7 +9,7 @@ date: 2020-06-15
 {: .image-pull-right}
 
 
-<center><b>JBlog</b> is a simple jekyll theme.</center>
+<center><b>MZBlog</b> is a simple jekyll theme.</center>
 
 ## About
 
