@@ -12,6 +12,7 @@ date: 2020-06-15
 
 ## About
 
+자랑할 수 있는 **고양이**가 없습니다.. 
 I'm in **practice**. I don't know if I'm doing it right.
 
 
