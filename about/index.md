@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Theme
+title: About me
 tags: [about, Jekyll, theme, MZBlog]
 date: 2020-06-15
 ---
