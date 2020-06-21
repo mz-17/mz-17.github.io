@@ -21,5 +21,5 @@ Hello I am practicing open software.
 
 This blog is an end-of-term assignment, and you will complete your own blog.
 
-
+If there is a fix, I would appreciate it if you could give me some advice via pull requests at **https://github.com/mz-17/mz**.
 
