@@ -7,7 +7,7 @@ excerpt: "Simple Jekyll theme for your blog by Alperen Bozkurt."
 project: true
 tag:
 - jekyll
-- JBlog
+- MZBlog
 - blog
 - about
 - theme
