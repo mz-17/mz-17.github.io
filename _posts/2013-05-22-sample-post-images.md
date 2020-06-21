@@ -17,7 +17,9 @@ tags: [sample post, images, test]
 	<figcaption><a href="https://www.color-hex.com/palettes/22927.png" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
 </figure>
 
-I like purple!!
+Hello I am practicing open software. 
+
+This blog is an end-of-term assignment, and you will complete your own blog.
 
 
 
